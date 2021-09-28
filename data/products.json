@@ -1,0 +1,307 @@
+[
+    {
+        "id": 1,
+        "img" : "images/product1.jpg",
+        "imgHover":"images/productHover1.jpg",
+        "name":"Harvest Playsuit",
+        "price": 59,
+        "newest" : 1,
+        "category": {
+            "id": 3,
+            "name": "Rompers and Playsuits"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Gorgeous playsuit with crochet detail Single button closure at back  Adjustable straps  Elasticised sleeves and waistband with drawstring Fabric is rayon - lined."
+    },
+    {
+        "id": 2,
+        "img" : "images/product2.jpg",
+        "imgHover":"images/productHover2.jpg",
+        "name":"Wild Roses Dress",
+        "price": 69,
+        "newest" : 1,
+        "category": {
+            "id": 2,
+            "name": "Dresses and Skirts"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"This sweet off-the-shoulder dress will have you turning heads! Floral embroidery on the front and sleeves Elasticised shoulders and wrists  Easy fit Fabric is rayon"
+    },
+    {
+        "id": 3,
+        "img" : "images/product3.jpg",
+        "imgHover":"images/productHover3.jpg",
+        "name":"Sweet Valley Dress",
+        "price":65,
+        "newest" : 1,
+        "category": {
+            "id": 2,
+            "name": "Dresses and Skirts"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"You can never have too many LBD's!  Sheer panelling on waist and sleeves Layered skirt Button clasp on wrist Concealed rear zip Fabric is polyester, non-stretchable Belt is NOT included, just used for styling "
+    },
+    {
+        "id": 4,
+        "img" : "images/product4.jpg",
+        "imgHover":"images/productHover4.jpg",
+        "name":"Stop There Tunic",
+        "price": 60,
+        "newest" : 1,
+        "category": {
+            "id": 1,
+            "name": "Tops"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Must-have swing tunic in black  V neckline with side cut-outs Lined skirt, unlined top We recommend wearing as a top/tunic (may be too short as a dress) Fabric is rayon "
+    },
+    {
+        "id": 5,
+        "img" : "images/product5.jpg",
+        "imgHover":"images/productHover5.jpg",
+        "name":"Be True Blouse",
+        "price": 35,
+        "newest" : 1,
+        "category": {
+            "id": 1,
+            "name": "Tops"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Beautiful semi-sheer white blouse Frill detail with single button closure at back Elasticised sleeves Fabric is polyester, unlined and semi-sheer Standard length, not cropped"
+    },
+    {
+        "id": 6,
+        "img" : "images/product6.jpg",
+        "imgHover":"images/productHover6.jpg",
+        "name":"Coco Top",
+        "price":39,
+        "newest" : 1,
+        "category": {
+            "id": 1,
+            "name": "Tops"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Adorable off the shoulder khaki top Shirred top Easy fit, cropped style Fabric is cotton / polyester Complete the look with the matching Coco Skirt! "
+    },
+    {
+        "id": 7,
+        "img" : "images/product7.jpg",
+        "imgHover":"images/productHover7.jpg",
+        "name":"Safari Playsuit",
+        "price":50,
+        "newest" : 1,
+        "category": {
+            "id": 3,
+            "name": "Rompers and Playsuits"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Stunning bohemian printed playsuit with embellished top Elasticised waistband with waist tie Adjustable straps Front pockets Fabric is polyester, unlined "
+    },
+    {
+        "id": 8,
+        "img" : "images/product8.jpg",
+        "imgHover":"images/productHover8.jpg",
+        "name":"Shadows Jumpsuit",
+        "price": 70,
+        "newest" : 1,
+        "category": {
+            "id": 3,
+            "name": "Rompers and Playsuits"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Beautiful off the shoulder jumpsuit in black Lace overlay  Easy fitting pants with side pockets Elasticised shoulders and waistband  Fabric is cotton / rayon Model wears Size Small and is 173cm tall Model's stats: Bust: 86cm / Waist: 63cm / Hips: 95cm "
+    },
+    {
+        "id": 9,
+        "img" : "images/product9.jpg",
+        "imgHover":"images/productHover9.jpg",
+        "name":"Fading Dreams Dress",
+        "price": 89,
+        "newest" : 0,
+        "category": {
+            "id": 2,
+            "name": "Dresses and Skirts"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 2,
+                "name" : "Medium"
+            }
+        ],
+        "description":"Beautiful white lace swing dress V neckline Buttons down front Easy fit Flared sleeves Lined through the body, semi-sheer lace sleeves  Fabric is cotton / polyester  Model wears Size small and is 173cm tall Model's stats: Bust: 86cm / Waist: 63cm"
+    },
+    {
+        "id": 10,
+        "img" : "images/product10.jpg",
+        "imgHover":"images/productHover10.jpg",
+        "name":"High Road Dress",
+        "price": 89,
+        "newest" : 0,
+        "category": {
+            "id": 2,
+            "name": "Dresses and Skirts"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"The perfect wrap-style dress! Navy and white polka dot print Gorgeous frill detail Hidden side zip Fabric is 100% cotton, not sheer If you're between sizes we recommend going down a size, slightly larger fit Model wears Size 6"
+    },
+    {
+        "id": 11,
+        "img" : "images/product11.jpg",
+        "imgHover":"images/productHover11.jpg",
+        "name":"Breeze Tie Top",
+        "price": 49,
+        "newest" : 0,
+        "category": {
+            "id": 1,
+            "name": "Tops"
+        },
+        "sizes": [
+            {
+                "id": 1,
+                "name" : "Small"
+            }
+        ],
+        "description":"Gorgeous striped tie-up top  Tie up front with concealed inner eye and hook closure  Super easy fit  Kimono sleeves One size fits all Fabric is rayon Model is 173cm tall and wears One Size as pictured  Model's stats: Bust: 86cm"
+    },
+    {
+        "id": 12,
+        "img" : "images/product12.jpg",
+        "imgHover":"images/productHover12.jpg",
+        "name":"Magnolia Top",
+        "price": 39,
+        "newest" : 0,
+        "category": {
+                "id": 1,
+                "name": "Tops"
+            },
+        "sizes": [
+            {
+                "id": 2,
+                "name" : "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Large"
+            }
+        ],
+        "description":"Gorgeous floral printed swing top Unlined, sheer lace detail Easy fit Elasticised sleeves Fabric is rayon Model wears Size 6 and is 173cm tall Model's stats: Bust: 86cm / Waist: 63cm / Hips: 78.5cm and Size Small"
+    }
+
+]

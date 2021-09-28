@@ -1,0 +1,22 @@
+[
+    {
+        "href":"https://www.facebook.com",
+        "name":"fa fa-facebook"
+    },
+    {
+        "href":"https://www.twitter.com",
+        "name":"fa fa-twitter"
+    },
+    {
+        "href":"https://www.instagram.com",
+        "name":"fa fa-instagram"
+    },
+    {
+        "href":"https://www.snapchat.com",
+        "name":"fa fa-snapchat"
+    },
+    {
+        "href":"https://www.pinterest.com",
+        "name":"fa fa-pinterest"
+    }
+]

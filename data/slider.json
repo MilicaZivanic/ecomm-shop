@@ -1,0 +1,32 @@
+[
+    {
+        "src":"images/slider1.jpg",
+        "alt":"Slider Image",
+        "classLi":"slider-slide current-slider",
+        "classImg":"slider-image",
+        "header": "BOHO SUMMER",
+        "text" : "Statement and unique pieces",
+        "link" : "SHOP NOW",
+        "href": "shop.html"
+    },
+    {
+        "src":"images/slider2.jpg",
+        "alt":"Slider Image",
+        "classLi":"slider-slide",
+        "classImg":"slider-image",
+        "header" : "ALL IN THE DETAILS",
+        "text" : "Explore our collection",
+        "link" : "EXPLORE",
+        "href": "shop.html"
+    },
+    {
+        "src":"images/slider3.jpg",
+        "alt":"Slider Image",
+        "classLi":"slider-slide",
+        "classImg":"slider-image",
+        "header":"ONLY THE BEST",
+        "text":"Read about us on our blog",
+        "link": "READ",
+        "href": "blog.html"
+    }
+]
